@@ -55,5 +55,5 @@ int main(void)
 	   updateOLED();
     while (1) { }
 }    
- Full example in `main/main.c`
+ Full example in `main/src/main.c`
   
